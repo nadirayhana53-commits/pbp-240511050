@@ -1,10 +1,3 @@
-
-# Analisis Komparatif Platform Web, Desktop, dan Mobile
-
-## Pendahuluan
-
-Platform Web, Desktop, dan Mobile memiliki karakteristik yang berbeda dalam pengembangan aplikasi. Perbedaan tersebut meliputi bahasa pemrograman, arsitektur, distribusi, keunggulan, keterbatasan, dan contoh aplikasinya.
-
 ## Tabel Perbandingan Platform
 
 | Aspek | Web | Desktop | Mobile |
@@ -16,9 +9,6 @@ Platform Web, Desktop, dan Mobile memiliki karakteristik yang berbeda dalam peng
 | Keterbatasan | Fitur tertentu bergantung pada browser dan jaringan | Kompatibilitas berbeda antar sistem operasi dan perlu instalasi | Terbatas oleh baterai, ukuran layar, dan perbedaan perangkat |
 | Contoh aplikasi | Gmail versi web, Google Docs versi web | Microsoft Word desktop, Visual Studio Code | WhatsApp, Google Maps, aplikasi mobile banking |
 
-## Kesimpulan
-
-Platform Web cocok untuk aplikasi yang mudah diakses melalui browser. Platform Desktop sesuai untuk pekerjaan yang membutuhkan kemampuan komputer dan integrasi dengan sistem operasi. Platform Mobile cocok untuk kebutuhan yang mengutamakan mobilitas dan fitur perangkat. Pemilihan platform perlu disesuaikan dengan kebutuhan pengguna dan tujuan aplikasi.
 
 ## Referensi
 
